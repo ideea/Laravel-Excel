@@ -20,10 +20,10 @@
   "require": {
     "php": ">=5.5",
     "ideea/phpexcel": "1.8.x-dev",
-    "illuminate/cache": "5.5.*|5.6.*|5.7.*|5.8.*|6.*",
-    "illuminate/config": "5.5.*|5.6.*|5.7.*|5.8.*|6.*",
-    "illuminate/filesystem": "5.5.*|5.6.*|5.7.*|5.8.*|6.*",
-    "illuminate/support": "5.5.*|5.6.*|5.7.*|5.8.*|6.*",
+    "illuminate/cache": "5.5.*|5.6.*|5.7.*|5.8.*|6.*|7.*",
+    "illuminate/config": "5.5.*|5.6.*|5.7.*|5.8.*|6.*|7.*",
+    "illuminate/filesystem": "5.5.*|5.6.*|5.7.*|5.8.*|6.*|7.*",
+    "illuminate/support": "5.5.*|5.6.*|5.7.*|5.8.*|6.*|7.*",
     "jeremeamia/superclosure": "^2.3",
     "nesbot/carbon": "^2.16",
     "tijsverkoyen/css-to-inline-styles": "~2.0"
